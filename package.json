@@ -1,0 +1,16 @@
+{
+  "name": "dlite-event",
+  "description": "Small event library.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nshah/dlite-event",
+  "author": "Naitik Shah <n@daaku.org>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nshah/dlite-event"
+  },
+  "dependencies": {
+    "underscore": ">= 1.1.7"
+  },
+  "engines": { "node": ">= 0.4.1" }
+}
